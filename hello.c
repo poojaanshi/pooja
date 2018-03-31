@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-printf("hello world");
+printf("hello world, hello geu");
 }
 getch();
 }
